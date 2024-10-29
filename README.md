@@ -1,2 +1,6 @@
 # Text_Ripper
- Screenshot files and convert them into PDF
+Code to screenshot files and convert them into PDF
+Modified from existing code from Github
+Fixed bugs and added features 
+- coordination calculator
+- wait time to allow loading
