@@ -1,6 +1,6 @@
 # Text_Ripper
-Code to screenshot files and convert them into PDF
-Modified from existing code from Github
-Fixed bugs and added features 
+Modified Code to screenshot book pages and convert them into PDF
+- Fixed bugs and added features 
 - coordination calculator
 - wait time to allow loading
+- TO DO: apply OCR when converting to PDF
